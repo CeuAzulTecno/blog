@@ -1,6 +1,4 @@
-# Motor de Blog by Céu Azul
-
-![Céu Azul Tecnologia](https://www.ceuazul.net/themes/web/assets/images/logo.png)
+# Blog
 
 Um motor de blogs simples, funcional e gratuito desenvolvido em PHP, JavaScript, JQuery e MySQL para hospedar e criar blogs com facilidade.
 
@@ -41,6 +39,10 @@ Contribuições e sugestões são bem-vindas! Você pode:
 ## 📄 Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+## Motor de Blog by Céu Azul
+
+![Céu Azul Tecnologia](https://www.ceuazul.net/themes/web/assets/images/logo.png)
 
 ---
 
