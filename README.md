@@ -1,6 +1,6 @@
 # Motor de Blog by Céu Azul
 
-![https://www.ceuazul.net/themes/web/assets/images/logo.png]
+[https://www.ceuazul.net/themes/web/assets/images/logo.png]
 
 Um motor de blogs simples, funcional e gratuito desenvolvido em PHP, JavaScript, JQuery e MySQL para hospedar e criar blogs com facilidade.
 
